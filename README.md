@@ -19,8 +19,8 @@ A RESTful API for managing articles using Go and PostgreSQL.
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/article-test.git
-cd article-test
+git clone https://github.com/RamdhaniMichan/Article-test.git
+cd Article-test
 ```
 
 ### 2. Configure Environment Variables
